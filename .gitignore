@@ -1,6 +1,7 @@
 # app specific
 kindle_highlights.html
 My Clippings.txt
+edits.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
